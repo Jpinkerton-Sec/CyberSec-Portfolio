@@ -1,7 +1,6 @@
-# CyberSec-Portfolio
 # Jacob Pinkerton — Cybersecurity Portfolio
 
-**Sydney, NSW** | JacobP362@gmail.com | [LinkedIn](#)
+**Sydney, NSW** | JacobP362@gmail.com | [LinkedIn](#https://www.linkedin.com/in/jacob-pinkerton-35836b29b/)
 
 ---
 
