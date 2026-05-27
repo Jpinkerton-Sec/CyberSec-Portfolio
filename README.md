@@ -8,9 +8,9 @@
 
 I'm based in Sydney and working my way into the cybersecurity industry. I finished my Network+, Security+, and CySA+ in 2025 and I'm currently working through my CCNA.
 
-Most of what I know came from studying for those certs, pulling apart problems at work, and building things in my own time. I run a small PC repair business (JP's PCs) which has given me more real troubleshooting experience than I expected — including deploying and configuring network infrastructure for a local business using subnetting, POS system integration, and ongoing support.
+Most of what I know came from studying for those certs, pulling apart problems at work, and building things in my own time. I run a small PC repair business (JP's PCs) which has given me more real troubleshooting experience than I expected, including deploying and configuring network infrastructure for a local business using subnetting, POS system integration, and ongoing support.
 
-This repo is where I document hands-on projects as I build them. Nothing here is polished for show — it's just work I've actually done.
+This repo is where I document hands-on projects as I build them. Nothing here is polished for show, it's just work I've done.
 
 ---
 
