@@ -26,7 +26,7 @@ This repo is where I document hands-on projects as I build them. Nothing here is
 ## Projects
 
 ### 1. Vulnerability Assessment Lab
-> Tools: Nessus Essentials, VirtualBox, Ubuntu
+> Tools: Nessus Essentials, Windows 11
 
 Ran vulnerability scans against a local VM environment, documented findings by CVSS score, and wrote a basic remediation report. The goal was to get hands-on with the kind of workflow a vulnerability analyst would actually follow rather than just knowing it theoretically from CySA+ prep.
 
