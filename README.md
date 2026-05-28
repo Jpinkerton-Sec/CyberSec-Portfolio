@@ -40,6 +40,7 @@ Ran vulnerability scans against a local VM environment, documented findings by C
 Captured and analysed live traffic on my home network. Identified protocols in use, flagged unusual patterns, and documented findings with annotated screenshots. Mostly did this to get more comfortable reading PCAPs quickly.
 
 📄 [View write-up](https://github.com/Jpinkerton-Sec/wireshark-traffic-analysis)
+
 ---
 
 ### 3. Home SOC Lab
