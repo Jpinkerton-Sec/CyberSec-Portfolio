@@ -48,7 +48,7 @@ Captured and analysed live traffic on my home network. Identified protocols in u
 
 Set up a basic Security Operations Centre environment using Wazuh as the SIEM, with a couple of VMs acting as endpoints. Generated alert activity through simulated attacks (port scans, failed logins), then investigated and documented findings the way a L1 SOC analyst would.
 
-📄 [View incident reports](#) *(in progress)*
+📄 [View incident reports](#) 
 
 ---
 
@@ -57,7 +57,7 @@ Set up a basic Security Operations Centre environment using Wazuh as the SIEM, w
 
 Wrote a structured threat intel report on the Emotet malware family. Covers TTPs mapped to ATT&CK, indicators of compromise, and defensive recommendations. Tried to write it the way an actual analyst would produce it rather than as a study note.
 
-📄 [View report](#) *(coming soon)*
+📄 [View report](https://github.com/Jpinkerton-Sec/Threat-Intelligence-Report-Emotet) 
 
 ---
 
