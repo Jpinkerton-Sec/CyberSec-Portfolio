@@ -48,7 +48,7 @@ Captured and analysed live traffic on my home network. Identified protocols in u
 
 Set up a basic Security Operations Centre environment using Wazuh as the SIEM, with a couple of VMs acting as endpoints. Generated alert activity through simulated attacks (port scans, failed logins), then investigated and documented findings the way a L1 SOC analyst would.
 
-📄 [View incident reports](#) 
+📄 [View incident reports](https://github.com/Jpinkerton-Sec/Home-SOC-Lab) 
 
 ---
 
